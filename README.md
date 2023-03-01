@@ -11,7 +11,7 @@ Our program inputs a name and age. According to your age, if you are 20 or older
 - None!
 
 ## Installation
-1. Clone this repo (or download an archive)
+1. Clone this repo
 2. That's it!
 
 ## Example
@@ -34,4 +34,4 @@ Limitations:
 - Warranty
 
 ## Contributor Covenant Code of Conduct
-Adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html)
+To contribute, first read the `CODE-OF-CONDUCT.md` adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html)
